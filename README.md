@@ -16,4 +16,4 @@ Aplicación que saluda al usuario en su idioma nativo utilizando su ubicación (
 Ágil con tablero Kanban en GitHub Projects.
 
 ## Integrantes del equipo
-- Tu Nombre Completo --- tu-usuario-de-github
+- Brian Jair Camacho Rodiguez --- tunoy33-sketch
